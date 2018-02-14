@@ -1,0 +1,23 @@
+{
+  "name": "bijoy-lambda",
+  "version": "1.0.1",
+  "description": "Sample lambda function",
+  "main": "index.js",
+  "dependencies": {
+    "image-magic": "latest"
+  },
+  "devDependencies": {
+    "aws-sdk": "latest",
+    "fs": "latest",
+    "request": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Bijoy Paul",
+    "email": "kgec.bijoypaul@gmail.com"
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "upload-lambda-artifact",
+  "version": "1.0.0",
+  "description": "Upload lambda artifact",
+  "main": "index.js",
+  "dependencies": {
+    "bijoy-lambda": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Bijoy Paul",
+    "email": "kgec.bijoypaul@gmail.com"
+  },
+  "license": "ISC"
+}
